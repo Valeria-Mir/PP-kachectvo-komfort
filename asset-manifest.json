@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/PP-kachectvo-komfort/static/css/main.c56ec546.css",
-    "main.js": "/PP-kachectvo-komfort/static/js/main.797aa91b.js",
+    "main.js": "/PP-kachectvo-komfort/static/js/main.fe0e91bd.js",
     "index.html": "/PP-kachectvo-komfort/index.html",
     "main.c56ec546.css.map": "/PP-kachectvo-komfort/static/css/main.c56ec546.css.map",
-    "main.797aa91b.js.map": "/PP-kachectvo-komfort/static/js/main.797aa91b.js.map"
+    "main.fe0e91bd.js.map": "/PP-kachectvo-komfort/static/js/main.fe0e91bd.js.map"
   },
   "entrypoints": [
     "static/css/main.c56ec546.css",
-    "static/js/main.797aa91b.js"
+    "static/js/main.fe0e91bd.js"
   ]
 }
